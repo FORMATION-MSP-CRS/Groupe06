@@ -1,0 +1,19 @@
+{
+    "name": "group6/dtic",
+    "description": "Modules pour la gestion des pays",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dtic\\Dany\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dany-Gakosso",
+            "email": "danygakosso27@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

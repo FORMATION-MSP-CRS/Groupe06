@@ -1,0 +1,19 @@
+{
+    "name": "mmc/custom_fields",
+    "description": "Gestion des champs personnaliés",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mmc\\CustomFields\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mmchrist89",
+            "email": "mobokomokomachrist@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

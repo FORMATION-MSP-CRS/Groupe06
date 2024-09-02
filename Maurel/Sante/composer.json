@@ -1,0 +1,19 @@
+{
+    "name": "dtic/group6",
+    "description": "Module pour la gestion de cibles",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dtic\\Maurel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maurel-ACSI",
+            "email": "maurelmalanda@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

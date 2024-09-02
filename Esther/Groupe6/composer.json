@@ -1,0 +1,19 @@
+{
+    "name": "dtic/groupe6",
+    "description": "Module du groupe 6",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dtic\\Esther\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mmchrist89",
+            "email": "mobokomokomachrist@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

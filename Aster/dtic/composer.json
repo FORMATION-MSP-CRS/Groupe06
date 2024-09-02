@@ -1,0 +1,18 @@
+{
+    "name": "dtic/group6",
+    "description": "creation de SIGSG et de la table type_emploi",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dtic\\Aster\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "EBOULABEKA"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
